@@ -41,7 +41,7 @@ git clone https://github.com/username/subur-jaya-pos.git
 cd subur-jaya-pos
 
 composer install
-npm install && npm run build
+npm install && npm run dev
 
 cp .env.example .env
 php artisan key:generate
