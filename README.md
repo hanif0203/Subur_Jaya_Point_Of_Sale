@@ -13,6 +13,25 @@
 [Demo](#) · [Laporan Bug](https://github.com/hanif0203/Subur_Jaya_Point_Of_Sale/issues) · [Request Fitur](https://github.com/hanif0203/Subur_Jaya_Point_Of_Sale/issues)
 
 </div>
+<img width="916" height="717" alt="Tangkapan Layar 2026-06-11 pukul 16 55 20" src="https://github.com/user-attachments/assets/0aa02e6d-3a72-4f34-8a2f-249bfaddab45" />
+<img width="1470" height="837" alt="Tangkapan Layar 2026-06-11 pukul 17 02 57" src="https://github.com/user-attachments/assets/4466f2ed-3d13-41cb-a0b1-5a97818f28da" />
+<img width="1465" height="829" alt="Tangkapan Layar 2026-06-11 pukul 17 02 22" src="https://github.com/user-attachments/assets/744d85b2-96fc-4fa2-9aa7-93fe1459a80a" />
+
+<img width="1470" height="835" alt="Tangkapan Layar 2026-06-11 pukul 17 01 53" src="https://github.com/user-attachments/assets/62b403fe-379d-462e-89c5-8aea6ee32853" />
+<img width="1467" height="832" alt="Tangkapan Layar 2026-06-11 pukul 17 01 38" src="https://github.com/user-attachments/assets/1a664307-da66-45ef-8a44-fc4668ca46ca" />
+<img width="1470" height="839" alt="Tangkapan Layar 2026-06-11 pukul 17 01 23" src="https://github.com/user-attachments/assets/1e2ba142-4fef-46ae-b1f3-9eab7fb1187f" />
+<img width="1434" height="815" alt="Tangkapan Layar 2026-06-11 pukul 17 00 54" src="https://github.com/user-attachments/assets/5f662248-c59f-49ee-978a-5a72861a58ab" />
+<img width="1463" height="813" alt="Tangkapan Layar 2026-06-11 pukul 17 00 36" src="https://github.com/user-attachments/assets/a14cd275-547f-47a9-9430-f20324f414f2" />
+<img width="1469" height="787" alt="Tangkapan Layar 2026-06-11 pukul 17 00 18" src="https://github.com/user-attachments/assets/201a83c7-017b-42f1-85b5-a940cdf2886d" />
+<img width="1463" height="833" alt="Tangkapan Layar 2026-06-11 pukul 17 00 01" src="https://github.com/user-attachments/assets/63075be4-720a-4c6e-957d-5be6ffc6ea14" />
+<img width="1470" height="837" alt="Tangkapan Layar 2026-06-11 pukul 16 59 42" src="https://github.com/user-attachments/assets/5e6a3965-d79f-44ca-a375-d6abcac4d663" />
+<img width="1470" height="834" alt="Tangkapan Layar 2026-06-11 pukul 16 59 27" src="https://github.com/user-attachments/assets/dc7570e4-b8ef-41dd-bbac-55c02567d222" />
+<img width="1470" height="835" alt="Tangkapan Layar 2026-06-11 pukul 16 59 13" src="https://github.com/user-attachments/assets/d7151baf-8a34-4862-8d70-88b7fee32e2d" />
+<img width="1466" height="828" alt="Tangkapan Layar 2026-06-11 pukul 16 58 55" src="https://github.com/user-attachments/assets/35de2977-3c4b-4989-a3b2-c0357df221dd" />
+<img width="1459" height="808" alt="Tangkapan Layar 2026-06-11 pukul 16 58 11" src="https://github.com/user-attachments/assets/29c3f3df-2ad7-4082-a5bc-0958bae538fc" />
+<img width="913" height="719" alt="Tangkapan Layar 2026-06-11 pukul 16 57 30" src="https://github.com/user-attachments/assets/9a8fa242-2a4e-42e0-b7ca-ae22238fa562" />
+<img width="923" height="752" alt="Tangkapan Layar 2026-06-11 pukul 16 57 13" src="https://github.com/user-attachments/assets/ffb29f91-ce90-4d50-b402-f6f7bbbe48b4" />
+<img width="901" height="735" alt="Tangkapan Layar 2026-06-11 pukul 16 56 49" src="https://github.com/user-attachments/assets/7005b4fd-5933-4ff1-8bee-ef39a7d21466" />
 
 ---
 
