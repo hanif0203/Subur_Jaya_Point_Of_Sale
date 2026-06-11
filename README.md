@@ -13,6 +13,15 @@
 [Demo](#) · [Laporan Bug](https://github.com/hanif0203/Subur_Jaya_Point_Of_Sale/issues) · [Request Fitur](https://github.com/hanif0203/Subur_Jaya_Point_Of_Sale/issues)
 
 </div>
+
+---
+
+## 📋 Tentang Proyek
+
+**Subur Jaya POS** adalah sistem Point of Sale (POS) berbasis web yang dirancang khusus untuk kebutuhan toko bangunan. Dibangun menggunakan **Laravel 11** dan **Filament Admin Panel v3**, aplikasi ini menyediakan antarmuka yang intuitif untuk mengelola penjualan, inventaris, dan laporan keuangan secara real-time.
+
+> 💡 Cocok untuk toko bangunan skala kecil hingga menengah yang membutuhkan sistem kasir yang lengkap dan mudah digunakan.
+
 <img width="916" height="717" alt="Tangkapan Layar 2026-06-11 pukul 16 55 20" src="https://github.com/user-attachments/assets/0aa02e6d-3a72-4f34-8a2f-249bfaddab45" />
 <img width="1470" height="837" alt="Tangkapan Layar 2026-06-11 pukul 17 02 57" src="https://github.com/user-attachments/assets/4466f2ed-3d13-41cb-a0b1-5a97818f28da" />
 <img width="1465" height="829" alt="Tangkapan Layar 2026-06-11 pukul 17 02 22" src="https://github.com/user-attachments/assets/744d85b2-96fc-4fa2-9aa7-93fe1459a80a" />
@@ -33,15 +42,6 @@
 <img width="923" height="752" alt="Tangkapan Layar 2026-06-11 pukul 16 57 13" src="https://github.com/user-attachments/assets/ffb29f91-ce90-4d50-b402-f6f7bbbe48b4" />
 <img width="901" height="735" alt="Tangkapan Layar 2026-06-11 pukul 16 56 49" src="https://github.com/user-attachments/assets/7005b4fd-5933-4ff1-8bee-ef39a7d21466" />
 
----
-
-## 📋 Tentang Proyek
-
-**Subur Jaya POS** adalah sistem Point of Sale (POS) berbasis web yang dirancang khusus untuk kebutuhan toko bangunan. Dibangun menggunakan **Laravel 11** dan **Filament Admin Panel v3**, aplikasi ini menyediakan antarmuka yang intuitif untuk mengelola penjualan, inventaris, dan laporan keuangan secara real-time.
-
-> 💡 Cocok untuk toko bangunan skala kecil hingga menengah yang membutuhkan sistem kasir yang lengkap dan mudah digunakan.
-
----
 
 ## ✨ Fitur Utama
 
